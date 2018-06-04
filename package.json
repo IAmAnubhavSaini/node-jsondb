@@ -1,0 +1,15 @@
+{
+  "name": "sainianubhav-jsondb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jsondb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+  	"json",
+	"database"
+  ],
+  "author": "Anubhav Saini <39879837+sainianubhav@users.noreply.github.com>",
+  "license": "MIT"
+}
