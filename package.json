@@ -1,5 +1,5 @@
 {
-  "name": "sainianubhav-jsondb",
+  "name": "@f0c1s/jsondb",
   "version": "1.0.0",
   "description": "",
   "main": "jsondb.js",
@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-  	"json",
-	"database"
+    "json",
+    "database"
   ],
   "author": "Anubhav Saini <39879837+sainianubhav@users.noreply.github.com>",
   "license": "MIT"

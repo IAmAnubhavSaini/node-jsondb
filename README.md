@@ -4,7 +4,7 @@ DB implementation via JSON files.
 
 ```javacsript
 
-	const jsondb = require('sainianubhav-jsondb')
+	const jsondb = require('@f0c1s/jsondb')
 	
 	const data = {
 		type: 'type',
@@ -22,4 +22,3 @@ DB implementation via JSON files.
 ## LICENSE
 
 MIT &copy; Anubhav Saini 2018 @sainianubhav
-
