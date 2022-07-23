@@ -12,9 +12,9 @@ DB implementation via JSON files.
 		data: [1, 3, 5, 7, 9]
 	}
 
-	doc.write(data)
+	doc.writeFile(data)
 
-	const readData = doc.read()
+	const readData = doc.readFile()
 
 	assert.deepEqual(data, readData) // true
 
@@ -22,4 +22,4 @@ DB implementation via JSON files.
 
 ## LICENSE
 
-MIT &copy; Anubhav Saini 2018 @sainianubhav
+MIT &copy; Anubhav Saini 2018-2022

@@ -1,4 +1,9 @@
 # Node - https://github.com/github/gitignore/blob/master/Node.gitignore
+
+## local files
+examples/
+tmp/
+
 # Logs
 logs
 *.log

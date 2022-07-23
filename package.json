@@ -1,7 +1,7 @@
 {
   "name": "@f0c1s/jsondb",
-  "version": "2.0.0",
-  "description": "",
+  "version": "3.0.0",
+  "description": "A simple json database.",
   "main": "src/jsondb.js",
   "scripts": {
     "test": "jasmine"
@@ -10,19 +10,13 @@
     "json",
     "database"
   ],
-  "author": "Anubhav Saini <39879837+sainianubhav@users.noreply.github.com>",
+  "author": "Anubhav Saini <iamanubhavsaini+git@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^4.19.1",
-    "eslint-config-standard": "^11.0.0",
-    "eslint-plugin-import": "^2.12.0",
-    "eslint-plugin-node": "^6.0.1",
-    "eslint-plugin-promise": "^3.8.0",
-    "eslint-plugin-standard": "^3.1.0",
-    "jasmine": "^3.1.0"
+    "jasmine": "^4.2.1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/f0c1s/node-jsondb.git"
+    "url": "git+https://github.com/IAmAnubhavSaini/node-jsondb.git"
   }
 }

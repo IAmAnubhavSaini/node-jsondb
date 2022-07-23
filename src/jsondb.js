@@ -1,4 +1,4 @@
-const { Document } = require('./Document')
+const {Document} = require('./Document')
 
 module.exports = {
     Document
