@@ -13,10 +13,14 @@
   "author": "Anubhav Saini <iamanubhavsaini+git@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "jasmine": "^4.2.1"
+    "jasmine": "^4.2.1",
+    "prettier": "^2.7.1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/IAmAnubhavSaini/node-jsondb.git"
+  },
+  "dependencies": {
+    "@f0c1s/random-hex-strings": "^4.0.0"
   }
 }
